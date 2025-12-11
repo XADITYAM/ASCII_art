@@ -4,9 +4,9 @@ A simple yet powerful GUI application that converts images into ASCII art. Uploa
 
 ## Features
 
-✨ **Easy-to-use GUI** - Simple and intuitive interface for image conversion
+ **Easy-to-use GUI** - Simple and intuitive interface for image conversion
 
-🎨 **Multiple Detail Levels** - Choose from 4 different character sets for varying levels of detail
+ **Multiple Detail Levels** - Choose from 4 different character sets for varying levels of detail
 - Standard
 - Enhanced  
 - Best (Recommended)
@@ -17,9 +17,9 @@ A simple yet powerful GUI application that converts images into ASCII art. Uploa
 - Control contrast (1-3) to enhance or soften details
 - Real-time preview with scrollable output window
 
-💾 **Save Functionality** - Export your ASCII art as a `.txt` file
+**Save Functionality** - Export your ASCII art as a `.txt` file
 
-🖼️ **Supports Multiple Formats** - Works with JPG, JPEG, PNG, BMP, and GIF images
+ **Supports Multiple Formats** - Works with JPG, JPEG, PNG, BMP, and GIF images
 
 ## Installation
 
